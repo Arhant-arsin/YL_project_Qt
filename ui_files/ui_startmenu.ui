@@ -19,7 +19,7 @@
      <item>
       <widget class="QLabel" name="img_main">
        <property name="text">
-        <string>TextLabel</string>
+        <string>Картиночка</string>
        </property>
       </widget>
      </item>

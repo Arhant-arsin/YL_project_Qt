@@ -57,7 +57,7 @@ class Ui_Form(object):
     def retranslateUi(self, Form):
         _translate = QtCore.QCoreApplication.translate
         Form.setWindowTitle(_translate("Form", "TaskCreator - main menu"))
-        self.img_main.setText(_translate("Form", "TextLabel"))
+        self.img_main.setText(_translate("Form", "Картиночка"))
         self.pb_4.setText(_translate("Form", "PushButton"))
         self.pb_5.setText(_translate("Form", "PushButton"))
         self.pb_1.setText(_translate("Form", "PushButton"))
